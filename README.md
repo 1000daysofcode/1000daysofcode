@@ -1,1 +1,5 @@
-## This subdomain is under construction... and may be for a while :)
+# README under construction. 
+
+This will describe the projects in this portfolio repository. 
+
+Please check back by the end of October 2021!
