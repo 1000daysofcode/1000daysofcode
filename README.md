@@ -1,6 +1,6 @@
 ## Hello!
 
-### I'm a developer that's passionate about the logic and problem solving inherent in programming.
+### I'm a developer that's passionate about logic and problem solving.
 
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
