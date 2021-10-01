@@ -2,8 +2,6 @@
 
 ### I'm a developer that's passionate about the logic and problem solving inherent in programming.
 
----
-
 <p align="center"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>   
@@ -12,7 +10,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
-I'm mainly focused on Python at the moment, but have experience designing web applications using Flask with basic front end (HTML, CSS, JS).
+I'm mainly focused on Python at the moment, but have experience designing web applications using Flask..
 
 ## Projects:
 
@@ -31,14 +29,10 @@ I’m currently studying about data structures and algorithms [here](https://www
 
  All of the courses I'm studying/have studied are [on this website](https://www.zachariahfrank.com/learn.html).
 
- If you have any questions, I'm an open book. Feel free to connect via social here or below. Reach out to me on LinkedIn for professional opportunities.
+ If you have any questions, I'm an open book. Feel free to connect via social here or below.
 
 <p align="center">
 <a href="https://instagram.com/1000daysofcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1000daysofcode" height="20" width="30" /></a>
 <a href="https://fb.com/1000daysofcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1000daysofcode" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/zachariahfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachariahfrank" height="20" width="30" /></a>
 </p>
-
-
-
-
