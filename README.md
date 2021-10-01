@@ -16,7 +16,7 @@ I'm mainly focused on Python at the moment, but have experience designing web ap
 
 1) An [analysis of air pollution](https://github.com/1000daysofcode/1000daysofcode/blob/main/VN_Air_Pollution.ipynb) levels in Vietnam using SQL, Excel and R.
 2) [EatWhat](https://www.youtube.com/watch?v=8dbePBUvVkE&t=38s): a fully responsive web application in Flask that recommends foods based on user's cravings (currently using SQLite3)
-3) TestTracker: a program in Python that allows users to track their test scores and analyze trends in progression and digression
+3) [TestTracker](https://github.com/1000daysofcode/1000daysofcode/blob/main/testtrackermain.py): a program in Python that allows users to track their test scores and analyze trends in progression and digression
 
 ## About Me
 
