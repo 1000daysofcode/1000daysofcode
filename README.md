@@ -11,7 +11,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
-I'm mainly focused on Python at the moment, but have experience designing web applications using Flask..
+I'm focused on DSA in Java at the moment, but most of my other experience is in Python, including designing web applications using Flask.
 
 ## Projects:
 
