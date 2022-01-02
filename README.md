@@ -21,7 +21,7 @@ I'm focused on DSA in Java at the moment, but most of my other experience is in 
 
 ## About Me
 
-I’m currently studying about data structures and algorithms [here](https://www.coursera.org/learn/algorithms-part1/).
+I’m currently studying about data structures and algorithms [here](https://www.coursera.org/learn/algorithms-part2).
  
 * 👨‍💻 All of my projects are available here on my GitHub portfolio [repo](https://github.com/1000daysofcode/1000daysofcode/)
 * I occasionally write articles on [my personal site](zachariahfrank.com) 📝 (there's just one now)
