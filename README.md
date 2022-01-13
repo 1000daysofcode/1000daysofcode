@@ -28,7 +28,7 @@ I’m currently studying about data structures and algorithms [here](https://www
 * ⚡ Fun fact: The last day of my 1000 days of code challenge is Sunday
  3 March, 2024
 
- All of the courses I'm studying/have studied are [on this website](https://www.zachariahfrank.com/learn.html).
+ All of the courses I'm studying/have studied are [on this website](https://www.zachariahfrank.com/code.html).
 
  If you have any questions, I'm an open book. Feel free to connect via social here or below.
 
