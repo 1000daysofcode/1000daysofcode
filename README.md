@@ -24,7 +24,7 @@ I'm focused on DSA in Java at the moment, but most of my other experience is in 
 I’m currently studying about data structures and algorithms [here](https://www.coursera.org/learn/algorithms-part2).
  
 * 👨‍💻 All of my projects are available here on my GitHub portfolio [repo](https://github.com/1000daysofcode/1000daysofcode/)
-* I occasionally write articles on [my personal site](zachariahfrank.com) 📝 (there's just one now)
+* I occasionally write articles on [my personal site](https://www.zachariahfrank.com/) 📝 (there's just one now)
 * ⚡ Fun fact: The last day of my 1000 days of code challenge is Sunday
  3 March, 2024
 
