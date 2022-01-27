@@ -16,12 +16,12 @@ I'm focused on DSA in Java at the moment, but most of my other experience is in 
 ## Projects:
 
 1) An [analysis of air pollution](https://github.com/1000daysofcode/1000daysofcode/blob/main/VN_Air_Pollution.ipynb) levels in Vietnam using SQL, Excel and R.
-2) [EatWhat](https://www.youtube.com/watch?v=8dbePBUvVkE&t=38s): a fully responsive web application in Flask that recommends foods based on user's cravings (currently using SQLite3)
-3) [TestTracker](https://github.com/1000daysofcode/1000daysofcode/blob/main/testtrackermain.py): a program in Python that allows users to track their test scores and analyze trends in progression and digression
+2) [EatWhat](https://github.com/1000daysofcode/eatwhat): a fully responsive web application in Flask that recommends foods based on user's cravings [Video demo here](https://www.youtube.com/watch?v=8dbePBUvVkE&t=38s)
+3) [TestTracker](https://github.com/1000daysofcode/test_tracker): a program in Python that allows users to track their test scores and analyze trends in progression and digression
 
 ## About Me
 
-I’m currently studying about data structures and algorithms [here](https://www.coursera.org/learn/algorithms-part2).
+I’m currently studying about data structures and algorithms [in this book](https://www.goodreads.com/en/book/show/425208.The_Algorithm_Design_Manual).
  
 * 👨‍💻 All of my projects are available here on my GitHub portfolio [repo](https://github.com/1000daysofcode/1000daysofcode/)
 * I occasionally write articles on [my personal site](https://www.zachariahfrank.com/) 📝 (there's just one now)
