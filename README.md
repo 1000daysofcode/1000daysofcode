@@ -16,7 +16,7 @@ I'm focused on DSA in Java at the moment, but most of my other experience is in 
 ## Projects:
 
 1) An [analysis of air pollution](https://github.com/1000daysofcode/1000daysofcode/blob/main/VN_Air_Pollution.ipynb) levels in Vietnam using SQL, Excel and R.
-2) [EatWhat](https://github.com/1000daysofcode/eatwhat): a fully responsive web application in Flask that recommends foods based on user's cravings [Video demo here](https://www.youtube.com/watch?v=8dbePBUvVkE&t=38s)
+2) [EatWhat](https://github.com/1000daysofcode/eatwhat): a fully responsive web application in Flask that recommends foods based on user's cravings [[Video demo here](https://www.youtube.com/watch?v=8dbePBUvVkE&t=38s)]
 3) [TestTracker](https://github.com/1000daysofcode/test_tracker): a program in Python that allows users to track their test scores and analyze trends in progression and digression
 
 ## About Me
