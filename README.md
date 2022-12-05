@@ -3,15 +3,13 @@
 ### I'm a developer that's passionate about logic and problem solving.
 
 <p align="center"> 
-<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.ruby-lang.org/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>   
+<a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 </p>
-
-I'm focused on DSA in Java at the moment, but most of my other experience is in Python, including designing web applications using Flask.
 
 ## Projects:
 
@@ -21,7 +19,7 @@ I'm focused on DSA in Java at the moment, but most of my other experience is in 
 
 ## About Me
 
-I’m currently studying about data structures and algorithms [in this book](https://www.goodreads.com/en/book/show/425208.The_Algorithm_Design_Manual).
+I’m currently re-reading Clean Code [in this book](https://www.goodreads.com/book/show/3735293-clean-code).
  
 * 👨‍💻 All of my projects are available here on my GitHub portfolio [repo](https://github.com/1000daysofcode/1000daysofcode/)
 * I occasionally write articles on [my personal site](https://www.zachariahfrank.com/) 📝 (there's just one now)
