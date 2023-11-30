@@ -10,6 +10,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p>
 
+### Please note that this README is about a year out of date at the moment :)
+
 ## Projects:
 
 1) An [analysis of air pollution](https://github.com/1000daysofcode/1000daysofcode/blob/main/VN_Air_Pollution.ipynb) levels in Vietnam using SQL, Excel and R.
