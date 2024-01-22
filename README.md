@@ -6,9 +6,9 @@
 <a href="https://www.ruby-lang.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://guides.rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://guides.rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.ruby-lang.org/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//linux/linux-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://docs.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://docs.aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://docs.kernel.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//linux/linux-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 ## About Me
@@ -34,7 +34,7 @@ Unfortunately these projects are relatively old/ out of date, but I have plans t
 ---
 
 
-Feel free to connect via social here or below.
+Feel free to connect via social here or on LinkedIn.
 
 <p align="center">
 <a href="https://linkedin.com/in/zachariahfrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachariahfrank" height="20" width="30" /></a>
